@@ -1,0 +1,16 @@
+{
+  "name": "generator-ng-rust",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^7.3.3"
+  }
+}
